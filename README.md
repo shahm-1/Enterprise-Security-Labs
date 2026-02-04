@@ -153,28 +153,6 @@ Each lab represents a complete, maintainable environment where I practice detect
 
 ---
 
-## 🎓 What I've Learned
-
-**Infrastructure & Identity:**
-- Domain controller configuration and hardening
-- Group Policy security baselines
-- Hybrid identity architecture (on-prem ↔ cloud)
-- Conditional access and zero trust policies
-
-**Security Operations:**
-- SIEM query development (KQL & SPL)
-- Incident response workflows
-- Attack chain reconstruction
-- Evidence collection and documentation
-
-**Threat Detection:**
-- Behavioral anomaly detection
-- Log correlation across multiple sources
-- Detection rule optimization
-- False positive management
-
----
-
 ## 🔗 Related Projects
 
 **[Main Portfolio](https://github.com/shahm-1)** • **[Threat Hunting](https://github.com/shahm-1/Threat-Hunting-Portfolio)** • **[Query Library](https://github.com/shahm-1/Threat-Hunting-Portfolio/tree/main/Queries-Used)** • **[Vulnerability Management](https://github.com/shahm-1/Vulnerability-Management-Portfolio)**
