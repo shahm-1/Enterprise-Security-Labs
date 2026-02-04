@@ -3,7 +3,7 @@
 - The most surprising thing I learned was the level of **visibility and customization** Microsoft provides in the **Defender portal for email security**.
   - You can see who **opened an email**, who **clicked a URL**, and how messages move through the environment.
 
- ![Dashboard](/screenshots-dashboards/Day15-kenny-clicked-links.png)
+ ![Dashboard](../screenshots-dashboards/Day15-kenny-clicked-links.png)
 *In Defender you can view which users clicked which link*
 
 ---
@@ -14,7 +14,7 @@
 - I now feel **confident navigating many areas** of the Defender portal.
   - At the same time, I recognize there are many **details and deeper configurations** that will take time to fully master.
  
-  ![Dashboard](/screenshots-dashboards/Day15-campaign-results.png)
+  ![Dashboard](../screenshots-dashboards/Day15-campaign-results.png)
 *Microsoft's Built-In Phishing Simulation Results*
 
   ---
@@ -37,7 +37,7 @@
 
 | Without Safe Links | With Safe Links Policy |
 |:------------------:|:----------------------:|
-| ![Dashboard](/screenshots-dashboards/Day12-no-safelink.png) | ![Another Dashboard](/screenshots-dashboards/Day12-safelink-policy-active.png) |
+| ![Dashboard](../screenshots-dashboards/Day12-no-safelink.png) | ![Another Dashboard](../screenshots-dashboards/Day12-safelink-policy-active.png) |
 
 - If I wrote another phishing report today, I would include **deeper analysis in the summary section** to better define the **scope and impact** of the attack.
 
