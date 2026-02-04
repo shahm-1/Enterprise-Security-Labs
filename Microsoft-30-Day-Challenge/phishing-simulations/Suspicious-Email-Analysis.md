@@ -49,44 +49,44 @@ The email was automatically quarantined by our system before reaching the recipi
 ## Supporting Evidence
 
 ### Quarantine Overview
-![Quarantine List View](/screenshots-dashboards/Day16-quarantine1.png)
+![Quarantine List View](../screenshots-dashboards/Day16-quarantine1.png)
 
 *The phishing email captured in Microsoft Defender quarantine, showing high confidence phish classification*
 
 ### Email Details and Delivery Information
-![Email Delivery Details](/screenshots-dashboards/Day16-details.png)
+![Email Delivery Details](../screenshots-dashboards/Day16-details.png)
 
 *Delivery details showing the email was blocked and quarantined before reaching the recipient*
 
 ### Authentication Failures
-![Authentication Results](/screenshots-dashboards/Day16-auth.png)
+![Authentication Results](../screenshots-dashboards/Day16-auth.png)
 
 *All email authentication checks (DMARC, SPF, DKIM) failed, with composite authentication showing "Fail"*
 
 ### Message Header Analysis
-![Message Header](/screenshots-dashboards/Day16-quarantine.png)
+![Message Header](../screenshots-dashboards/Day16-quarantine.png)
 
 *Complete message header showing the quarantined email and metadata*
 
-![Microsoft Header Analyzer](/screenshots-dashboards/Day16-microsoft-header-analyzer.png)
+![Microsoft Header Analyzer](../screenshots-dashboards/Day16-microsoft-header-analyzer.png)
 
 *Detailed header analysis revealing the spoofed sender information and authentication failures*
 
 ### Phishing Email Content
-![Email Preview](/screenshots-dashboards/Day16-defender-quarantine.png)
+![Email Preview](../screenshots-dashboards/Day16-defender-quarantine.png)
 
 *The phishing email claiming to be from the billing department with urgent payment demands*
 
-![Email Body Text](/screenshots-dashboards/Day16-Email-Spoofing.png)
+![Email Body Text](../screenshots-dashboards/Day16-Email-Spoofing.png)
 
 *Plain text view of the phishing email showing urgency tactics and threat language*
 
 ### Malicious Attachment
-![Fake Invoice](/screenshots-dashboards/Day16-fake-invoice.png)
+![Fake Invoice](../screenshots-dashboards/Day16-fake-invoice.png)
 
 *The fraudulent invoice attached to the phishing email, designed to appear legitimate*
 
 ### Remediation Actions
-![Delete Confirmation](/screenshots-dashboards/Day16-delete.png)
+![Delete Confirmation](../screenshots-dashboards/Day16-delete.png)
 
 *Permanent deletion of the phishing email from quarantine*
