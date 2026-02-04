@@ -49,7 +49,7 @@ Each lab represents a complete, maintainable environment where I practice detect
 **What I Did:**
 - Investigated complete attack chain: brute force → persistence → privilege escalation
 - Built SPL queries for security event correlation
-- Analyzed Sysmon telemetry (Event IDs 1, 3, 11, 13, 15)
+- Analyzed Sysmon telemetry
 - Created investigation timeline with evidence
 - Mapped findings to MITRE ATT&CK framework
 
