@@ -118,33 +118,33 @@ All security policies successfully implemented and tested. Users can report susp
 ## Supporting Evidence
 
 ### Day 10: User Setup
-![User Creation - Michael](/screenshots-dashboards/Day10-Adding-Users.png)
+![User Creation - Michael](../screenshots-dashboards/Day10-Adding-Users.png)
 
-![User Creation - Kenny](/screenshots-dashboards/Day10-Adding-Users2.png)
+![User Creation - Kenny](../screenshots-dashboards/Day10-Adding-Users2.png)
 
-![Email Accounts Activated](/screenshots-dashboards/Day10-Activate-Both-Emails.png)
+![Email Accounts Activated](../screenshots-dashboards/Day10-Activate-Both-Emails.png)
 
-![Defender Email Explorer Access](/screenshots-dashboards/Day10-Defender-Email-Explorer.png)
+![Defender Email Explorer Access](../screenshots-dashboards/Day10-Defender-Email-Explorer.png)
 
-![Defender Simulation Training](/screenshots-dashboards/Defender-Simulation-Training.png)
+![Defender Simulation Training](../screenshots-dashboards/Defender-Simulation-Training.png)
 
 ### Day 12: Safe Links
-![Email Without Safe Links](/screenshots-dashboards/Day12-no-safelink.png)
+![Email Without Safe Links](../screenshots-dashboards/Day12-no-safelink.png)
 
-![Email With Safe Links Active](/screenshots-dashboards/Day12-safelink-policy-active.png)
+![Email With Safe Links Active](../screenshots-dashboards/Day12-safelink-policy-active.png)
 
-![Safe Links Policy Configuration](/screenshots-dashboards/Day12-safe-links-policy.png)
+![Safe Links Policy Configuration](../screenshots-dashboards/Day12-safe-links-policy.png)
 
 ### Day 13: Anti-Phishing
-![Anti-Phishing Policy Configuration](/screenshots-dashboards/Day13-Anti-Phishing-Policy.png)
+![Anti-Phishing Policy Configuration](../screenshots-dashboards/Day13-Anti-Phishing-Policy.png)
 
 ### Day 14: Phishing Testing
-![Report Phishing Menu](/screenshots-dashboards/Day14-report-phishing.png)
+![Report Phishing Menu](../screenshots-dashboards/Day14-report-phishing.png)
 
-![Defender Submissions Dashboard](/screenshots-dashboards/Day14-defender-submissions.png)
+![Defender Submissions Dashboard](../screenshots-dashboards/Day14-defender-submissions.png)
 
-![Email Marked as Phishing](/screenshots-dashboards/Day14-marked-as-phishing.png)
+![Email Marked as Phishing](../screenshots-dashboards/Day14-marked-as-phishing.png)
 
-![Email Explorer - Reported Email](/screenshots-dashboards/Day14-email-explorer.png)
+![Email Explorer - Reported Email](../screenshots-dashboards/Day14-email-explorer.png)
 
-![User Notification - Phishing Confirmed](/screenshots-dashboards/Day14-michaels-result.png)
+![User Notification - Phishing Confirmed](../screenshots-dashboards/Day14-michaels-result.png)
