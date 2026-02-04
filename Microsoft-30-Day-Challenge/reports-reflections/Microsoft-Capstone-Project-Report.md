@@ -171,7 +171,7 @@ union EmailEvents, EmailPostDeliveryEvents, EmailUrlInfo, MessageEvents, Message
 | project TimeGenerated, SenderFromAddress, RecipientEmailAddress, Subject
 ```
 
-![](/screenshots-dashboards/Day29-phishing.png)
+![](screenshots-dashboards/Day29-phishing.png)
 
 ---
 
@@ -181,7 +181,7 @@ SigninLogs
 | project TimeGenerated, Identity, IPAddress, LocationDetails, UserPrincipalName, RiskState, TokenIssuerType
 | sort by TimeGenerated asc
 ```
-![](/screenshots-dashboards/Day29-signin-logs.png)
+![](screenshots-dashboards/Day29-signin-logs.png)
 
 ---
 
@@ -192,7 +192,7 @@ AuditLogs
 | project TimeGenerated, OperationName, Category, LoggedByService, Result, ActivityDisplayName, TargetResources
 | sort by TimeGenerated asc
 ```
-![](/screenshots-dashboards/Day29-audit-logs.png)
+![](screenshots-dashboards/Day29-audit-logs.png)
 
 ---
 
@@ -203,7 +203,7 @@ DeviceLogonEvents
 | where ActionType contains "failed"
 | project TimeGenerated, DeviceName, ActionType, AccountName, RemoteIP
 ```
-![](/screenshots-dashboards/Day29-failed-logon.png)
+![](screenshots-dashboards/Day29-failed-logon.png)
 
 ---
 
@@ -214,7 +214,7 @@ DeviceLogonEvents
 | where ActionType contains "success" and LogonType contains "remote"
 | project TimeGenerated, DeviceName, ActionType, AccountName, RemoteIP, AdditionalFields, LogonType
 ```
-![](/screenshots-dashboards/Day29-success-logon.png)
+![](screenshots-dashboards/Day29-success-logon.png)
 
 ---
 
@@ -225,7 +225,7 @@ DeviceFileEvents
 | project TimeGenerated, RequestAccountName, ActionType, FileName, FolderPath, InitiatingProcessFileName, InitiatingProcessCommandLine
 | sort by TimeGenerated desc
 ```
-![](/screenshots-dashboards/Day29-success-logon.png)
+![](screenshots-dashboards/Day29-success-logon.png)
 
 ---
 
@@ -235,7 +235,7 @@ DeviceProcessEvents
 | where ProcessCommandLine contains "mimi" or InitiatingProcessCommandLine contains "mimi" or AdditionalFields contains "mimi"
 | sort by TimeGenerated desc
 ```
-![](/screenshots-dashboards/Day29-mimikatzipexe.png)
+![](screenshots-dashboards/Day29-mimikatzipexe.png)
 
 ---
 
@@ -244,7 +244,7 @@ DeviceProcessEvents
 DeviceProcessEvents
 | where ProcessCommandLine contains "1059" and ProcessCommandLine contains "src"
 ```
-![](/screenshots-dashboards/Day29-av3.png)
+![](screenshots-dashboards/Day29-av3.png)
 
 ---
 
@@ -255,7 +255,7 @@ DeviceEvents
 | where AdditionalFields contains "mimi"
 | project TimeGenerated, ActionType, FileName, FolderPath, AccountName, InitiatingProcessParentFileName, AdditionalFields
 ```
-![](/screenshots-dashboards/Day29-antivirus.png)
+![](screenshots-dashboards/Day29-antivirus.png)
 
 ---
 
@@ -266,6 +266,6 @@ DeviceEvents
 | sort by TimeGenerated desc
 | where AdditionalFields contains "PsDnsTxtExec" or AdditionalFields contains "kovter" or AdditionalFields contains "sacepos" or AdditionalFields contains "powessere"
 ```
-![](/screenshots-dashboards/Day29-av2.png)
+![](screenshots-dashboards/Day29-av2.png)
 
 ---
