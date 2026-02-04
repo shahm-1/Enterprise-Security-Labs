@@ -143,46 +143,46 @@ The landing page included:
 ## Supporting Evidence
 
 ### Campaign Results Dashboard
-![Campaign Results](/screenshots-dashboards/Day15-campaign-results.png)
+![Campaign Results](../screenshots-dashboards/Day15-campaign-results.png)
 
 *Overall simulation impact showing 0% users compromised and detailed activity metrics*
 
 ### Simulation Review and Configuration
-![Creating Simulation Test](/screenshots-dashboards/Day15-creating-sim-test-org.png)
+![Creating Simulation Test](../screenshots-dashboards/Day15-creating-sim-test-org.png)
 
 *Review page showing simulation configuration including delivery platform, technique, payloads, and target users*
 
 ### URL Click Analysis - Kenny's Activity
-![Kenny Clicked Links](/screenshots-dashboards/Day15-kenny-clicked-links.png)
+![Kenny Clicked Links](../screenshots-dashboards/Day15-kenny-clicked-links.png)
 
 *Advanced hunting results showing kenny clicked on malicious URLs twice, with both actions allowed but not clicked through*
 
 ### URL Click Investigation - Office Domains
-![Seeing Who Clicked URL](/screenshots-dashboards/Day15-seeing-who-clicked-url.png)
+![Seeing Who Clicked URL](../screenshots-dashboards/Day15-seeing-who-clicked-url.png)
 
 *KQL query results for URLs containing "office" showing the typosquatted domains used in the simulation*
 
 ### Email Investigation - Google Links
-![Seeing Who Received Google Email](/screenshots-dashboards/Day15-seeing-who-received-google-email.png)
+![Seeing Who Received Google Email](../screenshots-dashboards/Day15-seeing-who-received-google-email.png)
 
 *EmailUrlInfo query results showing three instances of emails containing google.com URLs*
 
 ### Simulation Email Delivery Interface
-![Sending Suspicious Email](/screenshots-dashboards/Day15-sending-suspicious-email.png)
+![Sending Suspicious Email](../screenshots-dashboards/Day15-sending-suspicious-email.png)
 
 *Email composition showing recipient and subject line "Banking Details URGENT"*
 
 ### Phishing Email - File Sharing Variant
-![Simulation Email](/screenshots-dashboards/Day15-sim-email.png)
+![Simulation Email](../screenshots-dashboards/Day15-sim-email.png)
 
 *The file sharing phishing email impersonating inloop Account Department with an "Expenses Report.xlsx" lure*
 
 ### Recipient View - Banking Phishing Email
-![What the Receiver Sees](/screenshots-dashboards/Day15-what-the-receiver-sees.png)
+![What the Receiver Sees](../screenshots-dashboards/Day15-what-the-receiver-sees.png)
 
 *How the banking details phishing email appeared to recipients, with urgency tactics and malicious link*
 
 ### Educational Landing Page
-![You've Been Phished](/screenshots-dashboards/Day15-youve-been-phished.png)
+![You've Been Phished](../screenshots-dashboards/Day15-youve-been-phished.png)
 
 *The landing page users saw after clicking the malicious link, explaining the simulation and offering training resources*
