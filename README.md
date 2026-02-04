@@ -2,7 +2,7 @@
 
 Production-style lab environments for hands-on security operations, detection engineering, and threat simulation.
 
-**5 Complete Lab Environments** | **Microsoft Cloud SOC** | **Splunk SIEM** | **Active Directory** | **Azure Identity** | **SOC Workflows**
+**4 Complete Lab Environments** | **Microsoft Cloud SOC** | **Splunk SIEM** | **Active Directory** | **Azure Identity**
 
 ---
 
@@ -104,30 +104,6 @@ Each lab represents a complete, maintainable environment where I practice detect
 **Skills Demonstrated:** Hybrid identity management • Conditional access • MFA enforcement • Identity protection • Cloud security monitoring
 
 **Stack:** Azure Entra ID • Azure AD Connect • Microsoft 365 • Conditional Access • PowerShell
-
----
-
-## 🎫 Security Operations & Ticketing Lab
-
-**[→ View Full Project](./Security-Operations-Ticketing-Lab/)**
-
-**What I Built:**
-- SOC workflow simulation environment
-- Incident categorization and priority system
-- Escalation procedures and runbooks
-- Case management tracking
-- Metrics and reporting dashboards
-
-**What I Use It For:**
-- Practicing SOC analyst workflows
-- Testing incident response procedures
-- Building escalation matrices
-- Tracking investigation metrics
-- Simulating real SOC operations
-
-**Skills Demonstrated:** SOC operations • Incident management • Escalation procedures • Metrics tracking • Documentation standards
-
-**Stack:** Ticketing systems • Runbook development • Incident categorization • SLA tracking
 
 ---
 
