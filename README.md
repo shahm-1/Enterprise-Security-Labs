@@ -88,22 +88,18 @@ Each lab represents a complete, maintainable environment where I practice detect
 **[→ View Full Project](./Azure-Entra-ID-Identity-Lab/)**
 
 **What I Built:**
-- Hybrid cloud identity environment
-- Azure AD Connect for directory synchronization
+- Entra ID Cloud Environment
 - Conditional access policies
 - Multi-factor authentication enforcement
 - Privileged Identity Management (PIM)
 
 **What I Use It For:**
-- Testing cloud identity attacks
 - Practicing zero trust implementations
-- Monitoring sign-in anomalies
-- Investigating identity-based threats
 - Building cloud security detection rules
 
-**Skills Demonstrated:** Hybrid identity management • Conditional access • MFA enforcement • Identity protection • Cloud security monitoring
+**Skills Demonstrated:** Cloud identity management • Conditional access • MFA enforcement • Identity protection • Cloud security monitoring
 
-**Stack:** Azure Entra ID • Azure AD Connect • Microsoft 365 • Conditional Access • PowerShell
+**Stack:** Azure Entra ID • Microsoft 365 • Conditional Access
 
 ---
 
