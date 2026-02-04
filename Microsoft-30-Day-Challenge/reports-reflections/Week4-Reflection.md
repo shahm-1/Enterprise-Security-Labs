@@ -8,7 +8,7 @@
 - I now feel **confident triaging alerts** and conducting basic investigations across **endpoint, email, and identity** data sources.
   - At the same time, I recognize I need more practice with **advanced KQL** and **cross-domain correlation** to handle complex attack scenarios.
 
-![](/screenshots-dashboards/Day29-story1.png)
+![](../screenshots-dashboards/Day29-story1.png)
 *Attack Story for a Mult-Stage Incident*
 
 ---
@@ -23,7 +23,7 @@
   - I would set up **more aggressive alerting thresholds** to practice tuning detections and reducing false positives.
   - Spend more time on **advanced correlation logic** to track multi-stage attacks across the entire kill chain.
 
-![](/screenshots-dashboards/Day29-alerts.png)
+![](../screenshots-dashboards/Day29-alerts.png)
 *Investigating a Multi-Stage Incident using telemtry from multiple sources*
 
 ---
