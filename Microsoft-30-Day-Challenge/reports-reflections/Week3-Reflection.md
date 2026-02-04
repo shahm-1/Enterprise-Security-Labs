@@ -3,7 +3,7 @@
 ## 1. What surprised you about the data Defender for Endpoint captures?
 What surprised me is just how much information it captures. It really seems like it doesn't miss much.
 
-![](/screenshots-dashboards/Day23-incident-graph.png)
+![](../screenshots-dashboards/Day23-incident-graph.png)
 *Incident Story*
 
 ---
@@ -11,7 +11,7 @@ What surprised me is just how much information it captures. It really seems like
 ## 2. Did your hunting hypothesis surface anything meaningful?
 My hunting hypothesis returned evidence of remote IP connections to URLs. However, it is still undetermined whether this was legitimate or malicious activity.
 
-![](/screenshots-dashboards/Day22-query2.png)
+![](../screenshots-dashboards/Day22-query2.png)
 *Cmd.exe was found spawning powershell.exe which was found connecting to Remote IP connections to URLs.*
 
 ---
