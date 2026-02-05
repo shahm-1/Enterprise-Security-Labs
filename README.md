@@ -64,20 +64,18 @@ Each lab represents a complete, maintainable environment where I practice detect
 **[→ View Full Project](./Active-Directory-Enterprise-Lab/)**
 
 **What I Built:**
-- Multi-domain Active Directory forest
+- Domain Active Directory forest
 - Domain controllers with DNS integration
-- Group Policy Objects for security controls
-- Organizational Units and security groups
-- Certificate Services and PKI infrastructure
+- Organizational Units
+
 
 **What I Use It For:**
-- Testing identity-based attacks (Kerberoasting, Pass-the-Hash)
-- Practicing lateral movement detection
-- Building authentication monitoring queries
-- Testing Group Policy security configurations
-- Simulating privilege escalation scenarios
+- Automation User Creation
+- Connecting Client's to the Domain
+- Configuring Networking Services for Client Connectivity
 
-**Skills Demonstrated:** Active Directory administration • Domain architecture • GPO security • Attack simulation • Detection rule development
+
+**Skills Demonstrated:** Active Directory administration • Domain architecture 
 
 **Stack:** Windows Server 2019/2022 • Active Directory • DNS • Group Policy • PowerShell
 
